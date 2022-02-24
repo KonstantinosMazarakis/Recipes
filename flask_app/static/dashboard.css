@@ -1,0 +1,15 @@
+main {
+    min-height: 220px;
+    padding: 2rem;
+}
+
+header {
+    flex: 1;
+}
+
+nav {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    height: 38px;
+}
